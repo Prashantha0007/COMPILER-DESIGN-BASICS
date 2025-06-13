@@ -90,3 +90,7 @@ Modular coding in C++
 
 This task served as an excellent foundation to understand how expressions are parsed and evaluated inside a compiler, one of the core topics in Compiler Design.
 
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/98fcb5bd-68aa-42d8-8c7e-20511f36457a)
+
